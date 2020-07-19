@@ -34,7 +34,7 @@ I have completed Bachelors's in Computer Science 🎓 from SVMIT College 🏛. I
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Node.js, Express.js, React, <br /> Graphql, Mongodb, Javascript, etc 💻.
+- 🛠 I’m currently working with Node.js, Express.js, React, <br /> Mongodb, Javascript, etc 💻.
 - 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
