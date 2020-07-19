@@ -18,7 +18,7 @@
 <a href="https://www.facebook.com/mpooja.15/">
   <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.hackerrank.com/poojamishra/">
+<a href="https://www.hackerrank.com/mishrapooja8128/">
   <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
@@ -26,7 +26,7 @@
 
 ### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mPooja-15.mPooja-15)
 
-I have completed Bachelors's in Computer Science 🎓 from SVMIT College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full Stack Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I have completed Bachelors's in Computer Science 🎓 from SVMIT College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full Stack Web Development 🕸️ and working in @globaliaSoftllb 🤓.
 
 <br />
 
