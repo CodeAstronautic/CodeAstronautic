@@ -39,7 +39,7 @@ I have completed Bachelors's in Computer Science 🎓 from SVMIT College 🏛. I
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 How to reach me: pavangandhi100@gmail.com
-- 📝 [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf)
+- 📝 [Resume](https://github.com/iampavangandhi/mPooja-15/blob/master/resume.pdf)
 
 ### Languages and Tools:
 
