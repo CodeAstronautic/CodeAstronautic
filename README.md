@@ -30,8 +30,7 @@ I have completed Bachelors's in Computer Science 🎓 from SVMIT College 🏛. I
 
 <br />
 
-<img align="right" height="250" width="375" alt="
-" src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/master/coder.gif" />
+<img align="right" height="250" width="375" alt="coder" src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/master/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
@@ -39,7 +38,7 @@ I have completed Bachelors's in Computer Science 🎓 from SVMIT College 🏛. I
 - 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 How to reach me: pavangandhi100@gmail.com
+- 📫 How to reach me: mishrapooja8128@gmail.com
 - 📝 [Resume](https://github.com/mPooja-15/mPooja-15/blob/master/Resume.pdf)
 
 ### Languages and Tools:
