@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/master/Hi.gif" width="30px"></h2>
 
 <a href="https://twitter.com/poojam1507">
   <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -30,7 +30,8 @@ I have completed Bachelors's in Computer Science 🎓 from SVMIT College 🏛. I
 
 <br />
 
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/master//coder.gif" />
+<img align="right" height="250" width="375" alt="
+" src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/master/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
