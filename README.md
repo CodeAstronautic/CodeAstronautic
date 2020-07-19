@@ -30,7 +30,7 @@ I have completed Bachelors's in Computer Science 🎓 from SVMIT College 🏛. I
 
 <br />
 
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/master//coder.gif" />
 
 ### Talking about Personal Stuffs:
 
