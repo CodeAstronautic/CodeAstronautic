@@ -24,7 +24,7 @@
 
 <br />
 
-### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi)
+### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mPooja-15.mPooja-15)
 
 I have completed Bachelors's in Computer Science 🎓 from SVMIT College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full Stack Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
@@ -39,7 +39,7 @@ I have completed Bachelors's in Computer Science 🎓 from SVMIT College 🏛. I
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 How to reach me: pavangandhi100@gmail.com
-- 📝 [Resume](https://github.com/iampavangandhi/mPooja-15/mPooja-15/blob/master/Resume.pdf)
+- 📝 [Resume](https://github.com/mPooja-15/mPooja-15/blob/master/Resume.pdf)
 
 ### Languages and Tools:
 
