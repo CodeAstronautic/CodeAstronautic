@@ -62,5 +62,5 @@ I have completed Bachelors's in Computer Science 🎓 from SVMIT College 🏛. I
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
-
+![Visitor Count](https://profile-counter.glitch.me/{nPooja-a5})
 </div>
