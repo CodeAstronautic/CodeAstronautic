@@ -63,8 +63,7 @@ I have completed Bachelors's in Computer Science 🎓 from SVMIT College 🏛. I
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mPooja-15&show_icons=true&locale=en&layout=compact" alt="mPooja-15" /></p>
 <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mPooja-15&show_icons=true&locale=en" alt="poojamishra" /></p>
-<br>
+
 
 
 
