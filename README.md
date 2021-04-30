@@ -429,5 +429,7 @@ Always Equal in Javascript. - 📫 How to reach me: mishrapooja8128@gmail.com - 
 #
 
 <div align="center">
-  ### Show some ❤️ by starring some of the repositories! ![VisitorCount](https://visitor-badge.glitch.me/badge?page_id=mPooja-15.mPooja-15)
+  ### Show some ❤️ by starring some of the repositories  
+
+ ![VisitorCount](https://visitor-badge.glitch.me/badge?page_id=mPooja-15.mPooja-15)
 </div>
