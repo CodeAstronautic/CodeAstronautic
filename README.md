@@ -1,5 +1,9 @@
 
 <h1 align="center">Hi there 👋, I'm Pooja Mishra</h1>
+
+<p align="center">
+  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+</p>
 <a href="https://twitter.com/poojam1507">
   <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
