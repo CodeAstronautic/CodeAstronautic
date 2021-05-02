@@ -74,11 +74,15 @@ real-life problems ✨. Apart from that I also love to guide and mentor newbies
 👨🏻‍💻. I'm currently into Full Stack Web Development 🕸️ 🤓.
 
 <br />
-### Talking about Personal Stuffs: - 🛠 I’m currently working with Node.js,
-Express.js, React, <br />
-Mongodb, Javascript, etc 💻. - 👨🏻‍💻 I’m currently learning Full Stack Development
-🚀. - 💬 Ask me about anything! I am happy to help. - ⚡ Fun fact: Equal is Not
-Always Equal in Javascript. - 📫 How to reach me: mishrapooja8128@gmail.com - 📝
+### Talking about Personal Stuffs: 
+- 🛠 I’m currently working with Node.js, Express.js, React, <br />
+Mongodb, Javascript, etc 💻. 
+- 👨🏻‍💻 I’m currently learning Full Stack Development
+🚀. - 💬 Ask me about anything! I am happy to help. - 
+⚡ Fun fact: Equal is Not
+Always Equal in Javascript. -
+ 📫 How to reach me: mishrapooja8128@gmail.com -
+ 📝
 [Resume](https://github.com/mPooja-15/mPooja-15/blob/master/Resume.pdf)
 <p align="left"></p>
 
