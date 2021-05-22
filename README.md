@@ -75,7 +75,8 @@ real-life problems ✨. Apart from that I also love to guide and mentor newbies
 
 <br />
 ### Talking about Personal Stuffs: 
-- 🛠 I’m currently working with Node.js, Express.js, React, <br />
+- 🛠 I’m currently working with Node.js, Express.js, 
+, <br />
 Mongodb, Javascript, etc 💻. 
 - 👨🏻‍💻 I’m currently learning Full Stack Development
 🚀. - 💬 Ask me about anything! I am happy to help. - 
@@ -138,6 +139,10 @@ Always Equal in Javascript. -
   src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
   width="30px"
 />
+<code ><img
+    height="20"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"
+/></code>
 <code><img
     height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"
@@ -154,10 +159,7 @@ Always Equal in Javascript. -
     height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
 /></code>
-<code ><img
-    height="20"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"
-/></code>
+
 <code><img
     height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
