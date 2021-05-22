@@ -210,7 +210,14 @@ Always Equal in Javascript. -
 <img
     height="20"
     src="https://github.com/uannabi/-/blob/master/resource/git.svg"
-/></code>
+/>
+</code>
+<code>
+  <img
+    height="20"
+    src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"
+  />
+</code>
 <code>
   <img
     height="20"
@@ -289,16 +296,11 @@ Always Equal in Javascript. -
 </code>
 <code>
   <img
-    height="50"
+    height="20"
     src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"
   />
 </code>
-<code>
-  <img
-    height="50"
-    src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"
-  />
-</code>
+
 
 <code>
   <img
