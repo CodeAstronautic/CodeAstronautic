@@ -134,7 +134,7 @@ Always Equal in Javascript. -
   src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/p/coder.gif"
 />
 
-### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 <img
   src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
   width="30px"
@@ -305,7 +305,7 @@ Always Equal in Javascript. -
     src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"
   />
 </code>
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank">
     <img
