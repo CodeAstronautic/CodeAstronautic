@@ -74,7 +74,8 @@ real-life problems ✨. Apart from that I also love to guide and mentor newbies
 👨🏻‍💻. I'm currently into Full Stack Web Development 🕸️ 🤓.
 
 <br />
-### Talking about Personal Stuffs: 
+
+# Talking about Personal Stuffs: 
 - 🛠 I’m currently working with Node.js, Express.js, 
 , <br />
 Mongodb, Javascript, etc 💻. 
@@ -85,7 +86,7 @@ Always Equal in Javascript. -
  📫 How to reach me: mishrapooja8128@gmail.com -
  📝
 [Resume](https://github.com/mPooja-15/mPooja-15/blob/master/Resume.pdf)
-<p align="left"></p>
+
 
 <hr />
 <p align="center">
@@ -139,44 +140,62 @@ Always Equal in Javascript. -
   src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
   width="30px"
 />
-<code ><img
+<code>
+<img
     height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"
-/></code>
-<code><img
+/>
+</code>
+<code>
+<img
     height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"
-/></code>
-<code><img
+/>
+</code>
+<code>
+<img
     height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-/></code>
-<code><img
+/>
+</code>
+<code>
+<img
     height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
 /></code>
-<code><img
+<code>
+<img
     height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-/></code>
+/>
+</code>
 
-<code><img
+<code>
+<img
     height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-/></code>
-<code><img
+/>
+</code>
+<code>
+<img
     height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"
-/></code>
-<code><img
+/>
+</code>
+<code>
+<img
     height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"
-/></code>
-<code><img
+/>
+</code>
+<code>
+<img
     height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
-/></code>
-<code><img
+/>
+</code>
+<code>
+<img
     height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
 />
