@@ -332,7 +332,7 @@ Always Equal in Javascript. -
   <tr> 
     <td align="center">
       <a href="https://nodejs.org/">
-        <img src="assets/svg/nodejs.svg"/><br>NodeJS
+        <img src="[assets/svg/nodejs.svg](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png)"/><br>NodeJS
       </a>
     </td>
     <td align="center">
