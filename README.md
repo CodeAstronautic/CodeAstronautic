@@ -87,7 +87,7 @@ Mongodb, Javascript, etc 💻.
 Always Equal in Javascript. -
  📫 How to reach me: mishrapooja8128@gmail.com -
  📝
-[Resume](https://github.com/mPooja-15/mPooja-15/blob/master/Resume.pdf)
+
 
 
 <hr />
