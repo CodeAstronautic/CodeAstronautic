@@ -4,7 +4,7 @@
               
 <p align="center">
   <img
-    src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg"
+    src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/p/coder.gif"
     height="200"
   />
 </p>
@@ -68,8 +68,9 @@
 <br />
 
 ### Glad to see you here! 🤩 &nbsp;
+
 ![](https://visitor-badge.glitch.me/badge?page_id=mPooja-15.mPooja-15)
-I have completed Bachelors's in Computer Science 🎓 from SVMIT College 🏛. 
+I have completed Bachelors's in Computer Science 🎓 from SVMIT College 🏛.
 I am having 4+ years of experience in Full Stack development
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
 I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies
@@ -77,18 +78,17 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 <br />
 
-# Talking about Personal Stuffs: 
-- 🛠 I’m currently working with Node.js, Express.js, 
-, <br />
-Mongodb, Javascript, etc 💻. 
+# Talking about Personal Stuffs:
+
+- 🛠 I’m currently working with Node.js, Express.js,
+  , <br />
+  Mongodb, Javascript, etc 💻.
 - 👨🏻‍💻 I’m currently learning Full Stack Development
-🚀. - 💬 Ask me about anything! I am happy to help. - 
-⚡ Fun fact: Equal is Not
-Always Equal in Javascript. -
- 📫 How to reach me: mishrapooja8128@gmail.com -
- 📝
-
-
+  🚀. - 💬 Ask me about anything! I am happy to help. -
+  ⚡ Fun fact: Equal is Not
+  Always Equal in Javascript. -
+  📫 How to reach me: mishrapooja8128@gmail.com -
+  📝
 
 <hr />
 <p align="center">
@@ -302,7 +302,6 @@ Always Equal in Javascript. -
     src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"
   />
 </code>
-
 
 <code>
   <img
@@ -536,7 +535,8 @@ Always Equal in Javascript. -
 #
 
 <div align="center">
-  #Show some ❤️ by starring some of the repositories  
+  #Show some ❤️ by starring some of the repositories
 
- ![VisitorCount](https://visitor-badge.glitch.me/badge?page_id=mPooja-15.mPooja-15)
+![VisitorCount](https://visitor-badge.glitch.me/badge?page_id=mPooja-15.mPooja-15)
+
 </div>
