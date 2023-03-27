@@ -4,7 +4,7 @@
               
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/p/coder.gif"
+    src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/p/giphy.gif"
     height="200"
   />
 </p>
