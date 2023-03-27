@@ -38,6 +38,7 @@
 ### Glad to see you here! 🤩 &nbsp;
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mPooja-15.mPooja-15)
+
 ### Talking about Personal Stuffs:
 
 - 🛠 I’m currently working with Node.js, Express.js, React, <br /> Mongodb, Javascript, etc 💻.
@@ -45,7 +46,6 @@
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 How to reach me: mishrapooja8128@gmail.com
-- 📝 [Resume](https://github.com/mPooja-15/mPooja-15/blob/master/Resume.pdf)
 
 ### Languages and Tools:
 
@@ -59,69 +59,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<br />
-
-# Talking about Personal Stuffs:
-
-- 🛠 I’m currently working with Node.js, Express.js,
-  , <br />
-  Mongodb, Javascript, etc 💻.
-- 👨🏻‍💻 I’m currently learning Full Stack Development
-  🚀. - 💬 Ask me about anything! I am happy to help. -
-  ⚡ Fun fact: Equal is Not
-  Always Equal in Javascript. -
-  📫 How to reach me: mishrapooja8128@gmail.com -
-  📝
-
-<hr />
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif"
-    width="30px"
-    alt="Git"
-  />&nbsp;<i><b>Git Activeness</b></i>
-</p>
-<br />
-<br />
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mPooja-15&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"
-    alt="ovi"
-  />
-</p>
-<p>
-  &nbsp;<img
-    align="right"
-    src="https://github-readme-stats.vercel.app/api?username=mPooja-15&show_icons=true&locale=en&theme=chartreuse-dark"
-    alt="ovi"
-    width="410"
-  />
-</p>
-<br /><br /><br /><br /><br />
-
-<hr />
-
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif"
-    width="30"
-  />&nbsp;Git profile Trophies
-</p>
-<br />
-<img
-  src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true"
-/>
-<img
-  align="right"
-  height="250"
-  width="375"
-  alt="coder"
-  src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/p/coder.gif"
-/>
-
-<code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code><code>
 <img
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
@@ -276,6 +214,68 @@
     src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"
   />
 </code>
+<br />
+
+# Talking about Personal Stuffs:
+
+- 🛠 I’m currently working with Node.js, Express.js,
+  , <br />
+  Mongodb, Javascript, etc 💻.
+- 👨🏻‍💻 I’m currently learning Full Stack Development
+  🚀. - 💬 Ask me about anything! I am happy to help. -
+  ⚡ Fun fact: Equal is Not
+  Always Equal in Javascript. -
+  📫 How to reach me: mishrapooja8128@gmail.com -
+  📝
+
+<hr />
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif"
+    width="30px"
+    alt="Git"
+  />&nbsp;<i><b>Git Activeness</b></i>
+</p>
+<br />
+<br />
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mPooja-15&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"
+    alt="ovi"
+  />
+</p>
+<p>
+  &nbsp;<img
+    align="right"
+    src="https://github-readme-stats.vercel.app/api?username=mPooja-15&show_icons=true&locale=en&theme=chartreuse-dark"
+    alt="ovi"
+    width="410"
+  />
+</p>
+<br /><br /><br /><br /><br />
+
+<hr />
+
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif"
+    width="30"
+  />&nbsp;Git profile Trophies
+</p>
+<br />
+<img
+  src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true"
+/>
+<img
+  align="right"
+  height="250"
+  width="375"
+  alt="coder"
+  src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/p/coder.gif"
+/>
+
+
 <table cellspacing="5" cellpadding="5" width="100%">
   <tr> 
     <td align="center">
