@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Pooja Mishra</h1>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mpooja15" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mpooja15?trk=profile-badge">Pooja Mishra</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mpooja15" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/poojams15?trk=profile-badge">Pooja Mishra</a></div>
               
 <p align="center">
   <img
@@ -16,44 +16,12 @@
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"
   />
 </a>
-<a href="https://linkedin.com/in/mpooja15">
-  <img
-    align="left"
-    alt="pooja's Linkdein"
-    width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
-  />
-</a>
 <a href="https://github.com/mPooja-15">
   <img
     align="left"
     alt="pooja's Github"
     width="22px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"
-  />
-</a>
-<a href="https://t.me/techwithp">
-  <img
-    align="left"
-    alt="pooja's Telegram"
-    width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"
-  />
-</a>
-<a href="https://instagram.com/techwithp/">
-  <img
-    align="left"
-    alt="pooja's Instagram"
-    width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"
-  />
-</a>
-<a href="https://www.facebook.com/mpooja.15/">
-  <img
-    align="left"
-    alt="pooja's Facebook"
-    width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"
   />
 </a>
 <a href="https://www.hackerrank.com/mishrapooja8128/">
