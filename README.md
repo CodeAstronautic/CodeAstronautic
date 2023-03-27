@@ -60,31 +60,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code>
-<img
-    height="20"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-/>
-</code>
-<code>
-<img
-    height="20"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"
-/>
-</code>
-<code>
-<img
-    height="20"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"
-/>
-</code>
-<code>
-<img
-    height="20"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
-/>
-</code>
-<code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/></code>
+<code><img height="20"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"/></code>
+<code><img height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/></code>
+<code><img height="20"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/></code>
+<!-- <code>
 <img
     height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
@@ -189,9 +169,9 @@
     height="20"
     src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"
   />
-</code>
+</code> -->
 
-<code>
+<!-- <code>
   <img
     height="20"
     src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"
@@ -214,7 +194,7 @@
     height="20"
     src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"
   />
-</code>
+</code> -->
 <br />
 
 <hr />
