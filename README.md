@@ -34,14 +34,20 @@
 </a>
 
 <br />
-
+<img
+  align="right"
+  height="250"
+  width="375"
+  alt="coder"
+  src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/p/coder.gif"
+/>
 ### Glad to see you here! 🤩 &nbsp;
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mPooja-15.mPooja-15)
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Node.js, Express.js, React,  Mongodb, Javascript, etc 💻.
+- 🛠 I’m currently working with Node.js, Express.js, React, Mongodb, Javascript, etc 💻.
 - 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
@@ -235,14 +241,6 @@
 <img
   src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true"
 />
-<img
-  align="right"
-  height="250"
-  width="375"
-  alt="coder"
-  src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/p/coder.gif"
-/>
-
 
 <table cellspacing="5" cellpadding="5" width="100%">
   <tr> 
