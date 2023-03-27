@@ -216,18 +216,6 @@
 </code>
 <br />
 
-# Talking about Personal Stuffs:
-
-- 🛠 I’m currently working with Node.js, Express.js,
-  , <br />
-  Mongodb, Javascript, etc 💻.
-- 👨🏻‍💻 I’m currently learning Full Stack Development
-  🚀. - 💬 Ask me about anything! I am happy to help. -
-  ⚡ Fun fact: Equal is Not
-  Always Equal in Javascript. -
-  📫 How to reach me: mishrapooja8128@gmail.com -
-  📝
-
 <hr />
 <p align="center">
   <img
