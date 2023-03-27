@@ -359,7 +359,7 @@
   src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true"
 />
 
-<table cellspacing="5" cellpadding="5" width="100%">
+<!-- <table cellspacing="5" cellpadding="5" width="100%">
   <tr> 
     <td align="center">
       <a href="https://nodejs.org/">
@@ -442,7 +442,7 @@
       </a>  
     </td>
   </tr>
-</table>
+</table> -->
 
 <br />
 
