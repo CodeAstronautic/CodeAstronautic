@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Pooja Mishra</h1>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mpooja15" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/poojams15?trk=profile-badge">Pooja Mishra</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mpooja15" data-version="v1"><a class="badge-base__link LI-simple-link" href="">Pooja Mishra</a></div>
               
 <p align="center">
   <img
