@@ -17,14 +17,7 @@
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"
   />
 </a>
-<a href="https://www.hackerrank.com/mishrapooja8128/">
-  <img
-    align="left"
-    alt="pooja's Hackerrank"
-    width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"
-  />
-</a>
+
 
 <br />
 <img
