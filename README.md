@@ -34,7 +34,7 @@
 ### Talking about Personal Stuffs:
 
 - 🛠 I’m currently working with Python , ML , AI , Node.js, Express.js, React, Mongodb, Javascript, etc 💻.
-- 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
+- 👨🏻‍💻 I’m currently  Full Stack Development 🚀.
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 How to reach me: mishrapooja8128@gmail.com
