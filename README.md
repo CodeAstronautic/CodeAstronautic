@@ -331,10 +331,10 @@
   />&nbsp;Git profile Trophies
 </p>
 <br />
-<img
-  src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true"
-/>
 
+[![trophy](https://github-trophies.vercel.app/?username=mPooja-15)](https://github.com/mPooja-15/github-trophies)
+
+[![trophy](https://github-trophies.vercel.app/?username=mPooja-15&theme=onedark)](https://github.com/mPooja-15/github-trophies)
 <!-- <table cellspacing="5" cellpadding="5" width="100%">
   <tr> 
     <td align="center">
