@@ -429,6 +429,6 @@
 <div align="center">
   #Show some ❤️ by starring some of the repositories
 
-![VisitorCount](https://visitor-badge.glitch.me/badge?page_id=mPooja-15.mPooja-15)
+![Visitor Count](https://profile-counter.glitch.me/mPooja-15/count.svg)
 
 </div>
