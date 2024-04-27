@@ -318,7 +318,7 @@
 </p>
 <br />
 
-[![trophy](https://github-trophies.vercel.app/?username=mPooja-15)](https://github.com/mPooja-15/github-trophies)
+
 
 [![trophy](https://github-trophies.vercel.app/?username=mPooja-15&theme=onedark)](https://github.com/mPooja-15/github-trophies)
 <!-- <table cellspacing="5" cellpadding="5" width="100%">
@@ -406,15 +406,5 @@
   </tr>
 </table> -->
 
-<br />
 
-<br />
 
-#
-
-<div align="center">
-  #Show some ❤️ by starring some of the repositories
-
-![Visitor Count](https://profile-counter.glitch.me/mPooja-15/count.svg)
-
-</div>
