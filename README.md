@@ -210,12 +210,6 @@
 <code>
   <img
     height="20"
-    src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"
-  />
-</code>
-<code>
-  <img
-    height="20"
     src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"
   />
 </code>
@@ -304,18 +298,6 @@
   />&nbsp;<i><b>Git Activeness</b></i>
 </p>
 <br />
-<br />
-
-<br /><br /><br /><br /><br />
-
-<hr />
-
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif"
-    width="30"
-  />&nbsp;Git profile Trophies
-</p>
 <br />
 
 
