@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Coder</h1>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mpooja15" data-version="v1"><a class="badge-base__link LI-simple-link" href="">Pooja Mishra</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mpooja15" data-version="v1"><a class="badge-base__link LI-simple-link" href="">Coder</a></div>
               
 <p align="center">
   <img
