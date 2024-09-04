@@ -37,7 +37,7 @@
 - 👨🏻‍💻 I’m currently  Full Stack Development 🚀.
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 How to reach me: mishrapooja8128@gmail.com
+
 
 ### Languages and Tools:
 
